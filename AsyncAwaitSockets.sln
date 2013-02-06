@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncAwaitSocketProxy", "AsyncAwaitSocketProxy\AsyncAwaitSocketProxy.csproj", "{53A876B4-B424-4225-AC2B-B0A9CB30D915}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncAwaitSocketProxyTests", "AsyncAwaitSocketProxyTests\AsyncAwaitSocketProxyTests.csproj", "{6F3F138A-7085-4A87-B7C5-1BFB51A6C0E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53A876B4-B424-4225-AC2B-B0A9CB30D915}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53A876B4-B424-4225-AC2B-B0A9CB30D915}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53A876B4-B424-4225-AC2B-B0A9CB30D915}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53A876B4-B424-4225-AC2B-B0A9CB30D915}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F3F138A-7085-4A87-B7C5-1BFB51A6C0E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F3F138A-7085-4A87-B7C5-1BFB51A6C0E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F3F138A-7085-4A87-B7C5-1BFB51A6C0E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F3F138A-7085-4A87-B7C5-1BFB51A6C0E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
